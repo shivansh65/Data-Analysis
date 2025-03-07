@@ -33,6 +33,6 @@ The dataset contains information about traffic crashes that occurred in Chicago.
 ## Contact Information
 
 For any questions or issues, feel free to contact me at:  
-**Email:** your.email@example.com  
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+**Email:** shivanshsharma65@gmail.com
+**GitHub:** [https://github.com/shivansh65](https://github.com/shivansh65)
 
